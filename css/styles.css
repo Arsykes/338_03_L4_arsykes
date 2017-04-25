@@ -5,12 +5,26 @@
 	width: auto;
 	height: auto;
 	background-color: black;
+
 	
 }
 
 .if img {
 	width: 600px;
 	margin-bottom: -330px;
+	margin-left: -165px;
 }
 
-	
+p {
+	color: white;
+
+}
+
+.logo {
+	width: auto;
+}
+
+.logo img {
+	width: 200px;
+	float:right;
+}
